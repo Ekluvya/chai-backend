@@ -30,5 +30,13 @@
     "mongoose": "^8.2.0",
     "mongoose-paginate-v2": "^1.8.0",
     "multer": "^1.4.5-lts.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekluvya/chai-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ekluvya/chai-backend/issues"
+  },
+  "homepage": "https://github.com/Ekluvya/chai-backend#readme"
 }
